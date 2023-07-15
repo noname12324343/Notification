@@ -1,4 +1,4 @@
 Hi Ae!
 Mình đã update phiên bản mới là 1.0.1 có thêm 1 số chức năng, và sửa 1 số lỗi vặt full link video ở đây : https://youtu.be/lPeYBA3GY_E
 Hiện tại twitter đã update và hiện giờ 1 cookie sẽ chỉ check được 50 username thôi, nên anh em sẽ cần nhiều cookie hơn trước, để khắc phục anh em có thể sử dụng luôn cookie của nhưng acc đã bị suspend, đó là giải pháp tạm thời , trong thời gian ngắn nhất mình sẽ cố gắng tìm cách fix :((
-Cảm ơn Ae đã đọc <3 | 1.0.0 | https://drive.google.com/file/d/1pbjwqpsMNBwnFaB_l8iwMmqV6arqXUdF/view?usp=sharing
+Cảm ơn Ae đã đọc <3 | 1.0.0 | https://drive.google.com/file/d/1BQS2_xTGk3rpKTE-X8H2uGWiiPq07rf5/view?usp=sharing
