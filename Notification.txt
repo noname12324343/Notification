@@ -2,5 +2,4 @@ Hi Ae!
 Mình đã update phiên bản mới là 1.0.3 có thêm 1 số chức năng, và sửa 1 số lỗi vặt full link video ở đây : https://youtu.be/lPeYBA3GY_E
 So với bản trước mình thêm 1 chút filter nhé (ae chuột phải là thấy), và tối ưu hoá 1 số thú linh tinh :v
 Sửa lỗi nếu cookie bị restrict
-Hiện tại twitter đã update và hiện giờ 1 cookie sẽ chỉ check được 50 username thôi, nên anh em sẽ cần nhiều cookie hơn trước, để khắc phục anh em có thể sử dụng luôn cookie của nhưng acc đã bị suspend, đó là giải pháp tạm thời , trong thời gian ngắn nhất mình sẽ cố gắng tìm cách fix :((
 Cảm ơn Ae đã đọc <3 | 1.0.0 | https://drive.google.com/file/d/1ZYL6VclbQf5bKkLKhaQEu0YpH0tRcx5b/view?usp=sharing
