@@ -1,5 +1,5 @@
 Hi Ae!
-Mình đã update phiên bản mới là 1.0.3 có thêm 1 số chức năng, và sửa 1 số lỗi vặt full link video ở đây : https://youtu.be/lPeYBA3GY_E
-So với bản trước mình thêm 1 chút filter nhé (ae chuột phải là thấy), và tối ưu hoá 1 số thú linh tinh :v
+Mình đã update phiên bản mới là 1.0.4 có thêm 1 số chức năng, và sửa 1 số lỗi vặt full link video ở đây : https://youtu.be/lPeYBA3GY_E
+Bản này thêm tính năng xem được cookie hiện tại và show ra cookie nào lỗi
 Sửa lỗi nếu cookie bị restrict
-Cảm ơn Ae đã đọc <3 | 1.0.0 | https://drive.google.com/file/d/1ZYL6VclbQf5bKkLKhaQEu0YpH0tRcx5b/view?usp=sharing
+Cảm ơn Ae đã đọc <3 | 1.0.0 | https://drive.google.com/file/d/1tDD4vwDc8zXWDKldsg53botCX-jOxrM2/view?usp=sharing
