@@ -1,5 +1,1 @@
-Hi Ae!
-Mình đã update phiên bản mới là 1.0.4 có thêm 1 số chức năng, và sửa 1 số lỗi vặt full link video ở đây : https://youtu.be/lPeYBA3GY_E
-Bản này thêm tính năng xem được cookie hiện tại và show ra cookie nào lỗi
-Sửa lỗi nếu cookie bị restrict
-Cảm ơn Ae đã đọc <3 | 1.0.0 | https://drive.google.com/file/d/1tDD4vwDc8zXWDKldsg53botCX-jOxrM2/view?usp=sharing
+Hế nhô ae, lâu không có update gì, ae có cần thêm tính năng gì không nhỉ, gọi ý giúp mình nhé | 1.0.0 | https://drive.google.com/file/d/1tDD4vwDc8zXWDKldsg53botCX-jOxrM2/view?usp=sharing
