@@ -1,1 +1,1 @@
-Hello ae, mình đang test 1 cách tạo vô số cookie , ae có cần update luôn vô bản sau không =)) | 1.0.0 | https://drive.google.com/file/d/1Qu-sFVMXQi1FrFcUES3x8WoyPjbl_mwR/view?usp=sharing
+Đã update chức năng vô hạn cookie, a nào muốn update key thì ib mình, nếu update bản sau sẽ có check đa luồng nữa :3 | 1.0.0 | https://drive.google.com/file/d/1OxwAITGaKsuYMDsBk7cxBP-yz3sckI1E/view?usp=drive_link
