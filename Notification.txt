@@ -1,1 +1,1 @@
-Đã update chức năng vô hạn cookie, a nào muốn update key thì ib mình, nếu update bản sau sẽ có check đa luồng nữa :3, phù hợp những ai check nhiều acc hoặc lười get cookie | 1.0.0 | https://drive.google.com/file/d/1OxwAITGaKsuYMDsBk7cxBP-yz3sckI1E/view?usp=drive_link
+Bản 1.0.8 đã có đa luồng ae nào đã up key thì có thể vô test :v(check 10k acc không tới 10p), về cơ bản bây giờ không cần bất kỳ tài nguyên nào nữa , bỏ username là check thui | 1.0.0 | https://drive.google.com/file/d/1-VpO3CncH_eFroNNxrJux8ai2Jm4HBC4/view?usp=sharing
