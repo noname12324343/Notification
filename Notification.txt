@@ -1,2 +1,2 @@
 Bản 1.0.9 về cơ bản không có gì mới mình chỉ đổi sang dark thêm ae nào thích có thể đổi, nếu oke mình sẽ làm nốt
-đã có đa luồng ae nào đã up key thì có thể vô test :v(check 10k acc không tới 10p), về cơ bản bây giờ không cần bất kỳ tài nguyên nào nữa , bỏ username là check thui | 1.0.0 | https://drive.google.com/file/d/1sczvQokzPhMlodCUSYOxWnCfHCq1Lvm9/view?usp=sharing
+đã có đa luồng ae nào đã up key thì có thể vô test :v(check 10k acc không tới 10p), về cơ bản bây giờ không cần bất kỳ tài nguyên nào nữa , bỏ username là check thui | 1.0.0 | https://drive.google.com/file/d/1tXiI62Ba-0KGYBQy5NvdP3WvyMMKvPdx/view?usp=sharing
