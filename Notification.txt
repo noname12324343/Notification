@@ -1,1 +1,1 @@
-Bản 1.1.0 fix lỗi vặt, 1 trick khi dùng đa luồng là ae nên để số luồng là 1 số ước cảu số cookie ae có nhé, ví dụ có 15 cookie thì nên chọn số luồng là 3 hoặc 5 hoặc 15 nhé| 1.0.0 | https://drive.google.com/file/d/1ko6vzvLF3uVi9mvpENZPyqt_YPuRhlEV/view?usp=sharing
+Bản 1.1.0 fix lỗi vặt, 1 trick khi dùng đa luồng là ae nên để số luồng là 1 số ước cảu số cookie ae có nhé, ví dụ có 15 cookie thì nên chọn số luồng là 3 hoặc 5 hoặc 15 nhé | 1.0.0 | https://drive.google.com/file/d/1ko6vzvLF3uVi9mvpENZPyqt_YPuRhlEV/view?usp=sharing
